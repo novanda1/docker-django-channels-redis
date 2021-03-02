@@ -1,0 +1,7 @@
+django>=3.1.7
+dj-database-url==0.5.0
+psycopg2==2.7.5
+psycopg2-binary==2.8.6
+Pillow==6.2.0
+channels>=3.0.3
+channels-redis>=3.2.0
